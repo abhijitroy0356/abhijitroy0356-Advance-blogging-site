@@ -1,9 +1,7 @@
-import React from 'react'
-
-export default function Blog() {
+export const Blog =()=>{
   return (
-    <>
-    Blog
-    </>
+    <div>
+
+    </div>
   )
 }
